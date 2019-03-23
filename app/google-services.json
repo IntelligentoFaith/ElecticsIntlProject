@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "540086239007",
+    "firebase_url": "https://electicsintlproject.firebaseio.com",
+    "project_id": "electicsintlproject",
+    "storage_bucket": "electicsintlproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540086239007:android:739a8984ad9d543b",
+        "android_client_info": {
+          "package_name": "com.example.electicsintlproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540086239007-8o6vk9gbjv86vjh8rn2i0p1d08abuo7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electicsintlproject",
+            "certificate_hash": "0164d125bf58e5598ef836e2e996ad2721d0a420"
+          }
+        },
+        {
+          "client_id": "540086239007-i88u041vl4ichn6e2iuo7rjr7u1pst6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkpbElB08QjtbMpU7ypNxq_IgAexOMERg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540086239007-i88u041vl4ichn6e2iuo7rjr7u1pst6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
