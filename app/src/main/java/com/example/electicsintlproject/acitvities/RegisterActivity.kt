@@ -56,7 +56,7 @@ class RegisterActivity : AppCompatActivity(), View.OnClickListener {
         val DeviceToken = firebaseUserUniqueToken
         //check if the user has entered at least a mobile
         if (!TextUtils.isEmpty(mobileNo)) {
-            val id = mAuth.currentUser!!.phoneNumber!!
+            val id = mAuth.currentUser!!.phoneNumber
             databaseUsersReference.child(id!!).child("mobileNumber").setValue(mobileNo)
             databaseUsersReference.child(id).child("deviceToken").setValue(DeviceToken)
 
